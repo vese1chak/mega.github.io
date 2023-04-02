@@ -1,0 +1,48 @@
+.entertainments {
+    padding-top: 150px;
+}
+
+.entertainments_header {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 66px;
+    text-align: center;
+}
+
+.entertainments_block {
+    padding-top: 40px;
+    min-height: 829px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.item {
+    padding-top: 23px;
+    width: 378px;
+    min-height: 403px;
+    background-color: #282E47;
+    padding: 60px 48px 58px 45px;
+}
+
+.descr_title {
+    padding-top: 40px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.descr_text {
+    padding-top: 11px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #979FBD;
+}
